@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      # half adder
-  author:       ""      # nihala
+  title:        "half adder"      # half adder
+  author:       "nihala"      # nihala
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # half adder operation
+  description:  "half adder operation"      # half adder operation
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
